@@ -29,7 +29,6 @@ let message1 = 'Еда',
     message4 = '6000';
 
 
-
 appData.expenses.message1 = message2;
 appData.expenses.message3 = message4;
 
